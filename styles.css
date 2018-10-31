@@ -1,3 +1,20 @@
 body {
-    background-color: rgba(180, 217, 240, 0.959);
+    background-color: rgb(49, 47, 47);
+}
+
+h1 {
+    color: rgb(241, 189, 57);
+}
+
+.friend {
+    background-color: rgb(248, 214, 128);
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+}
+
+h3 {
+    text-transform: uppercase;
+    text-decoration: underline;
 }
